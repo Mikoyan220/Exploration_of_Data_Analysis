@@ -1,6 +1,6 @@
 # Exploration of Data_Analysis
 Data Analysis on historical datasets through AI-Assisted Pair Programming using Python 'AND/OR' SQL
-- Agoda
+- Agoda [DataCamp]
 - HR Analytics on Employee Attrition and Performance [mahmoudemadabdallah @ Kaggle]
 - Transaction_Data_for_Banking_Operations [Ziya @ Kaggle]
 
