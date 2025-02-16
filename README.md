@@ -1,6 +1,7 @@
 # Exploration of Data_Analysis
 Data Analysis on historical datasets through AI-Assisted Pair Programming using Python 'AND/OR' SQL
 - Agoda
-- HR Analytics on Employee Attrition and Performance
+- HR Analytics on Employee Attrition and Performance [mahmoudemadabdallah @ Kaggle]
+- Transaction_Data_for_Banking_Operations [Ziya @ Kaggle]
 
 The dataset for this data analysis task / practice was not uploaded as part of #zero-trust practice. 
